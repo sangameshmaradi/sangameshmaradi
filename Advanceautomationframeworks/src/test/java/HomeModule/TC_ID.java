@@ -22,7 +22,7 @@ public class TC_ID extends BaseClass {
 				 JavaScriptExcecutorUtility.EnteringDataToELementsUsingJavaScript(password, "demo1223234");
 				  JavaScriptExcecutorUtility.clickingOnELementUsingJavaScript(login);*/
 		login.click();
-		//assert.equals(arg0)
+		
 		
 		
 		
